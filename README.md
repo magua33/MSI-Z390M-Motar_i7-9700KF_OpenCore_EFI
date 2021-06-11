@@ -13,7 +13,7 @@
 
 | 硬件     | 型号                                  |
 | :------- | ------------------------------------- |
-| 处理器   | Intel Core I7-9700KF                       |
+| 处理器   | Intel Core i7 9700KF                       |
 | 主板     | MSI MAG Z390M Mortar                 |
 | 显卡     | ASRock AMD Radeon RX 5600 XT                 |
 | 内存     | KLEVV BOLT X DDR4 16G 3200MHz * 2          |
